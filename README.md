@@ -1,3 +1,12 @@
+<p>
+  👨‍💻 Bem-vindo(a)
+
+Me chamo Vitor Zavan, sou desenvolvedor Python especializado em RPA (Robotic Process Automation).
+Tenho foco em ⚙️ automação de sistemas para otimizar processos, entregando 💡 soluções eficientes, práticas e orientadas a resultados para os desafios do dia a dia.
+
+📂 Confira aqui os projetos em que estou trabalhando e acompanhe minha jornada no desenvolvimento de automações inteligentes.
+</p>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
