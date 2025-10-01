@@ -7,7 +7,7 @@ Tenho foco em ⚙️ automação de sistemas para otimizar processos, entregando
 📂 Confira aqui os projetos em que estou trabalhando e acompanhe minha jornada no desenvolvimento de automações inteligentes.
 </p>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
